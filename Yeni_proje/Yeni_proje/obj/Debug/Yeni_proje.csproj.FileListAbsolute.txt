@@ -1,0 +1,7 @@
+C:\Users\araba\source\repos\Yeni_proje\Yeni_proje\obj\Debug\Yeni_proje.csproj.AssemblyReference.cache
+C:\Users\araba\source\repos\Yeni_proje\Yeni_proje\obj\Debug\Yeni_proje.csproj.CoreCompileInputs.cache
+C:\Users\araba\source\repos\Yeni_proje\Yeni_proje\bin\Debug\Yeni_proje.exe.config
+C:\Users\araba\source\repos\Yeni_proje\Yeni_proje\bin\Debug\Yeni_proje.exe
+C:\Users\araba\source\repos\Yeni_proje\Yeni_proje\bin\Debug\Yeni_proje.pdb
+C:\Users\araba\source\repos\Yeni_proje\Yeni_proje\obj\Debug\Yeni_proje.exe
+C:\Users\araba\source\repos\Yeni_proje\Yeni_proje\obj\Debug\Yeni_proje.pdb
